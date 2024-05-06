@@ -1,0 +1,14 @@
+{
+  "database": {
+    "host": "testdb.example.com",
+    "port": 3306,
+    "username": "test_user",
+    "password": "test_password",
+    "database_name": "test_database"
+  },
+  "api": {
+    "base_url": "http://testapi.example.com/api"
+  },
+  "debug": false
+}
+

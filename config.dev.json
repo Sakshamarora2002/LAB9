@@ -1,0 +1,14 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "username": "dev_user",
+    "password": "dev_password",
+    "database_name": "dev_database"
+  },
+  "api": {
+    "base_url": "http://localhost:3000/api"
+  },
+  "debug": true
+}
+
